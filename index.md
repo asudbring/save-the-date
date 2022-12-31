@@ -6,7 +6,7 @@ This information isn't gospel, so feel free to choose a transportation and hotel
 
 We look forward to seeing you in October of 2023!
 
--Allen & Ashley
+**-Allen & Ashley**
 
 ## Hotels
 
