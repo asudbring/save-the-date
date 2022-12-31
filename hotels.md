@@ -45,4 +45,4 @@ Kirkland, Washington 98034-4302
 12223 North East 116th Street
 Kirkland, Washington 98034
 
-![Screenshot of Baymont rooms](/media/courtyard.png "Baymont rooms")
+![Screenshot of Baymont rooms](/media/baymont.png "Baymont rooms")
