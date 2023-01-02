@@ -8,6 +8,8 @@ We look forward to seeing you in October of 2023!
 
 **-Allen & Ashley**
 
+![Seattle skyline](/media/seattle.jpg "Seattle skyline")
+
 ## Hotels
 
 Select here for hotel information for the wedding. We have chosen example hotels that are the closest to the venue and where we are staying. Feel free though to book any hotel that is convenient for you and your budget.
