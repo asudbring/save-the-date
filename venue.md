@@ -10,7 +10,7 @@ For more information about the venue, see [Meadowbrook Farm Park](https://www.me
 
 ![Picture of mountain at venue reverse](/media/venue-mountain-2.jpg "Picture of mountain at wedding venue reverse").
 
-![Picture of inside of venue](/media/venue-inside-2.jpg "Picture of inside of venue").
+![Picture of inside of venue](/media/venue-inside.jpg "Picture of inside of venue").
 
 ## Food
 
