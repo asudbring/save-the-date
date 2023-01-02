@@ -1,4 +1,4 @@
-#Driving
+# Driving
 
 This page is for those who wish to make the cross country trip by highway. Driving directions from the airport to the hotels we have selected and to the venue are also provided.
 
@@ -32,9 +32,11 @@ The main airport in Seattle is Seattle/Tacoma International airport. For more in
 
 ### Rental cars
 
-[Avis](https://www.avis.com)
-[Hertz](https://www.hertz.com)
-[Enterprise](https://www.enterprise.com)
+* [Avis](https://www.avis.com)
+
+* [Hertz](https://www.hertz.com)
+
+* [Enterprise](https://www.enterprise.com)
 
 ### Directions
 
