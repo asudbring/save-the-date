@@ -31,4 +31,6 @@ Select here for information about flights, train schedules and driving direction
 [Driving and directions information](driving.md)
 ## Venue
 
-Select here for information about the venue and food for the event.
+Select [here](venue.md) for information about the venue and food for the event.
+
+ [![Picture of mountain in North Bend](/media/north-bend.jpg)](venue.md)
